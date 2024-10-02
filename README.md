@@ -72,5 +72,6 @@ Takes the id and removes that specific cat from the json file
 
 ## Demo
 
-Insert gif or link to demo
+![screencapture-localhost-5173-2024-10-02-10_39_44](https://github.com/user-attachments/assets/86ff1ee9-aa46-4840-a770-a2bf41f52a81)
+
 
