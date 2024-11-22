@@ -1,5 +1,5 @@
 
-# Cats in React and NodeJS
+# Cats in React and NodeJS from Umer Khalid
 
 This is a sample project for storing details of a cat in JSON file and returning that back in api. There is both frontend and backend for this project.
 
